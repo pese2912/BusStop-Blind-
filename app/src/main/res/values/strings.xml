@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BusStop(Blind)</string>
+    <string name="GuidanceMent">안녕하세요 버스정류장 시각장애인용 어플리케이션입니다. 목적지를 말씀해주세요.</string>
+    <string name="ReplyMent">죄송합니다. 없는 정류소입니다. 다시 한번 목적지를 말씀해주세요.</string>
+    <string name="ReplyMent2">죄송합니다. 현재위치를 찾을 수 없습니다. 다시한번 말씀해주세요.</string>
+</resources>
